@@ -1,2 +1,2 @@
 # LogicPuzzles
-A logic puzzle game I coded two years ago on the Ready to Program Java IDE.
+A one-player logic-puzzle/grid-puzzle game made using Java.
